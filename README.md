@@ -5,3 +5,5 @@ Practice Git
 Add a new feature.
 
 Add another feature. This is a second feature
+
+This is the third feature.
